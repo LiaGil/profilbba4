@@ -230,7 +230,7 @@ svg .polygon{
 .card{
   width: 100%;
   position: center;
-    overflow-x: hidden;
+  overflow-x: hidden;
   }
 }
 
